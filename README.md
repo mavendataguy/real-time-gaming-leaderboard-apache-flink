@@ -1,6 +1,7 @@
 ## Real time gaming leaderboard using Apache Flink
 Video
 https://www.youtube.com/watch?v=ZrybveqaWls
+
 This repository supports five part series about the streaming analytics on AWS and In this video series, we are building
 real-time gaming leaderboard application based on real use case to learn all parts of streaming architecture including
 
